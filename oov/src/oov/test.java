@@ -5,7 +5,7 @@ public class test {
 		public static void main(String[]args){
 			
 				System.out.println("12345");
-				System.out.println("¼ºÈ£Çü¹Ùº¸");
+				System.out.println("ì˜ë˜ëŠ”ê±°ë§ëŠ”ê±°ì§€??");
 		}
 	
 }
