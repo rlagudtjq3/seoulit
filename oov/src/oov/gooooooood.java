@@ -4,7 +4,7 @@ public class gooooooood {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			System.out.println("¿ø°İÀúÀå¼Ò ¼º°ø????");
+			System.out.println("ë°˜ê°‘ìŠµë‹ˆë‹¤");
 	}
 
 }
